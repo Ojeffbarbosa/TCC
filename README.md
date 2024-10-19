@@ -13,4 +13,5 @@ Sinta-se à vontade para contribuir com sugestões ou melhorias. Este repositór
 
 ## Licença
 
-Este projeto é de uso acadêmico e os códigos estão disponíveis sob a licença MIT.
+Este projeto é de uso acadêmico e os códigos estão disponíveis sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+ 
