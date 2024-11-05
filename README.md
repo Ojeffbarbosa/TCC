@@ -1,4 +1,4 @@
-# TCC
+# TCC (em construção)
 Este repositório contém os códigos Python desenvolvidos para o meu TCC, que explora a aplicação de equações diferenciais ordinárias e controle ótimo na modelagem do câncer. Os projetos incluem simulações de crescimento tumoral e controle ótimo para tratamento de quimioterapia.
 
 ## Estrutura do Repositório
